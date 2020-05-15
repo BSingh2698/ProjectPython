@@ -2,6 +2,13 @@
 
 In this project, we write an AI to play a game of Tic-Tac-Toe, optimally.
 
+
+![Game_Start_prompt](start_game.png)
+![Move_1](ss_tictactoe1.png)
+![Move_2](ss_tictactoe2.png)
+![Game_end_prompt](end_game.png)
+
+
 ## Files present:
 
 1. **runner.py** : Contains code to run the graphical interface
