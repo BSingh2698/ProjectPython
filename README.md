@@ -5,3 +5,4 @@ Contains python projects related to Data Science / Machine Learning / AI
 
 1. Movie Recommender System
 2. TicTacToe - AI 
+3. Minesweeper - AI
