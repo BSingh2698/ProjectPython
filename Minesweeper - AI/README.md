@@ -6,6 +6,9 @@ Minesweeper is a puzzle game that consists of a grid of cells, where some of the
 
 The goal of the game is to flag (i.e., identify) each of the mines. In many implementations of the game, including the one in this project, the player can flag a mine by right-clicking on a cell (or two-finger clicking, depending on the computer).
 
+![Game_Start_prompt](start_game.png) ![Minesweeper_Grid](minesweeper_grid.PNG) ![Moves](game_moves.PNG)
+![Game_end_prompt](end_game.png)
+
 ## Flow of Game :
 1. User is provided with the instructions to the game and is prompted to start.
 2. User is taken to a 8x8 grid of tiles, hiding mines and number of surrounding mines, underneath.
